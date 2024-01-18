@@ -1,0 +1,11 @@
+Scénario,Commodity,Demande 2040 (rel. à 2021),Global CO2 Emissions (2040) [MtCO2eq/yr],Global CO2 Emissions (2021) [MtCO2eq/yr]
+STEPS,Lithium,13.0,21.5,1.65
+SDS,Lithium,42.0,69.3,1.65
+STEPS,Nickel,6.0,110.0,18.3
+SDS,Nickel,19.0,347.0,18.3
+STEPS,Cobalt,6.0,6.7,1.12
+SDS,Cobalt,21.0,23.4,1.12
+STEPS,Manganèse,3.0,63.7,21.2
+SDS,Manganèse,8.0,170.0,21.2
+STEPS,Cuivre,1.7,102.0,60.0
+SDS,Cuivre,2.7,162.0,60.0
